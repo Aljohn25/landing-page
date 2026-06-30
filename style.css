@@ -193,7 +193,6 @@ a {
     border-radius: 10px;
     padding: 5px 15px;
     border: 1px solid #F9FAF8;
-    
 }
 
 .action-message {
@@ -229,5 +228,19 @@ a {
     border: 2px solid #F9FAF8;
     cursor: pointer;
     margin-right: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
     
 }
+
+.footer-text {
+    color: #F9FAF8;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
